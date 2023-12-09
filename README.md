@@ -1,7 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 T𝐡𝐞𝐫𝐞! I'm Ayman <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-You have finally discovered my Github profile. 
+You have finally discovered my Github profile 🙋‍♂️. <br>
 “Any one can write code that a computer can understand. Good programmers write code that humans can understand 😎.<br>
 Happy Coding! 😊
 
